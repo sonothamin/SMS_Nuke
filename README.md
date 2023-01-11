@@ -2,11 +2,14 @@
 Introducing the ultimate SMS bombing solution for Bangladesh - the SMS_Nuke CLI 🇧🇩. This powerful tool allows users to send a large number of text messages to a target phone number with just a simple command. The software is easy to use and can be run from any terminal window. With it's advanced features and high-speed sending capabilities, it is the go-to choice for anyone looking to flood a target phone with messages. Perfect for pranking friends or getting revenge on a ex.
 
 # Installation #
-Run the following command on your terminal
+Run the following command on Termux
 ```
-wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && chmod +x sms-nuke && sudo chmod +x sms-nuke && mv sms-nuke $PATH
+wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && chmod +x sms-nuke && mv sms-nuke $PATH
 ```
-
+Or, Run this command if you are on a Linux PC
+```
+wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && sudo chmod +x sms-nuke && sudo mv sms-nuke $PATH
+```
 # DISCLAIMER #
 "With great power, comes great responsibility."
 
