@@ -20,7 +20,7 @@ You will be asked to enter the target's phone number once you run the program. I
 Interface
 ![Interface](https://github.com/sonothamin/SMS_Nuke/raw/main/Screenshot_2023-01-12-05-17-32-55.jpg)
 Log
-![Log](https://github.com/sonothamin/SMS_Nuke/raw/main/IMG_20230112_052152.jpg)
+![Log](https://github.com/sonothamin/SMS_Nuke/raw/main/IMG_20230112_052152-oioi.jpg)
 Spams
 ![Spams](https://github.com/sonothamin/SMS_Nuke/raw/main/Screenshot_2023-01-12-05-20-22-38_0ce57feeccaa51fb7deed04b4dbda235.jpg)
 # DISCLAIMER #
