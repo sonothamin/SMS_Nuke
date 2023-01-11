@@ -10,6 +10,12 @@ Or, Run this command if you are on a Linux PC
 ```
 wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && sudo chmod +x sms-nuke && sudo mv sms-nuke $PATH
 ```
+# Usage #
+After installation, run the following command
+```
+sms-nuke
+```
+You will be asked to enter the target's phone number once you run the program. Input the phone number and press enter. To stop the attack, press Ctrl+C.
 # DISCLAIMER #
 "With great power, comes great responsibility."
 
