@@ -4,11 +4,11 @@ Introducing the ultimate SMS bombing solution for Bangladesh - the SMS_Nuke CLI 
 # Installation #
 Run the following command on Termux
 ```
-wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && chmod +x sms-nuke && mv sms-nuke $PATH && apt update && apt upgrade && apt install figlet
+wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && chmod +x sms-nuke && mv sms-nuke $PREFIX/bin && apt update && apt upgrade && apt install figlet
 ```
 Or, Run this command if you are on a Linux PC
 ```
-wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && sudo chmod +x sms-nuke && sudo mv sms-nuke $PATH && sudo apt update && sudo apt upgrade && sudo apt install figlet
+wget "https://raw.githubusercontent.com/sonothamin/SMS_Nuke/main/sms-nuke" && sudo chmod +x sms-nuke && sudo mv sms-nuke /bin && sudo apt update && sudo apt upgrade && sudo apt install figlet
 ```
 # Usage #
 After installation, run the following command
