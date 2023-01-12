@@ -16,6 +16,7 @@ After installation, run the following command
 sms-nuke
 ```
 You will be asked to enter the target's phone number once you run the program. Input the phone number and press enter. To stop the attack, press Ctrl+C.
+
 # Screenshots #
 Interface
 ![Interface](https://github.com/sonothamin/SMS_Nuke/raw/main/Screenshot_2023-01-12-05-17-32-55.jpg)
@@ -23,6 +24,10 @@ Log
 ![Log](https://github.com/sonothamin/SMS_Nuke/raw/main/IMG_20230112_052152-oioi.jpg)
 Spams
 ![Spams](https://github.com/sonothamin/SMS_Nuke/raw/main/Screenshot_2023-01-12-05-20-22-38_0ce57feeccaa51fb7deed04b4dbda235.jpg)
+
+# Closed Source #
+Sadly enough, I have to keep this software closed source for some unavoidable reasons. Currently I am not accepting any contributions for this repo. But if you want to contribute, all my other repos are open source and welcome to contributions.
+
 # DISCLAIMER #
 "With great power, comes great responsibility."
 
